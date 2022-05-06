@@ -9,8 +9,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <a href="https://github.com/RafaelBalbino">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBalbino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" width="800" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBalbino&layout=compact&langs_count=7&theme=dracula"/>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Linguagens e programas que eu uso:
