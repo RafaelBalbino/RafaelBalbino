@@ -1,10 +1,11 @@
-### Olá, seja bem-vindo(a) ao meu perfil! 👋 
+<div align="center"><h1> 👋 Olá, seja bem-vindo(a) ao meu perfil! 👋 </h1></div>
 
-### Me chamo Rafael Ballabinute Balbino
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center"><h2> Me chamo Rafael Ballabinute Balbino </h2></div>
+
 - 💻 Atualmente trabalhando no Projeto Integrador da Generation Brasil enquanto estudo programação
 - 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
 - 👦 Pronomes: Ele / Dele | He / Him
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <a href="https://github.com/RafaelBalbino">
@@ -21,4 +22,3 @@
 <a href = "mailto:rafaelballabi@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href = "mailto:rafaelbalbal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-ballabinute-balbino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
