@@ -6,6 +6,8 @@
 - 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
 - 🎵 Música é a chave para inspiração 
+<img align="center" alt="Rafael-Seguidores" height="30" width="135" src="https://img.shields.io/github/followers/RafaelBalbino.svg?style=social&label=Follow&maxAge=2592000">
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <a href="https://github.com/RafaelBalbino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
