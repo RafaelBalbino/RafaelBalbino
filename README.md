@@ -2,9 +2,10 @@
 
 <div align="center"><h2> Me chamo Rafael Ballabinute Balbino </h2></div>
 
-- 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
-- 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
 - 👦 Pronomes: Ele / Dele | He / Him
+- 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
+- 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
+- 🎵 Música é a chave para inspiração 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <a href="https://github.com/RafaelBalbino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
