@@ -12,8 +12,8 @@
 - 🎵 Música é a chave para inspiração 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <a href="https://github.com/RafaelBalbino">
-  <img width="36.6%" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Linguagens e programas que eu uso:
