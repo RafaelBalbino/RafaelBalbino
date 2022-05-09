@@ -2,6 +2,10 @@
 
 <div align="center"><h2> Me chamo Rafael Ballabinute Balbino </h2></div>
 
+<div>
+ <img align="right" alt="Rafael-sapu" height="180" style="border-radius:50px;" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
+</div> <br>
+
 - 👦 Pronomes: Ele / Dele | He / Him
 - 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
