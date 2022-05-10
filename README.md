@@ -4,13 +4,13 @@
 
 <div>
  <img align="right" alt="Rafael-Croagunk" height="175" style="border-radius:40px;" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
-</div> <br>
+</div> <br><br>
 
 - 👦 Pronomes: Ele / Dele | He / Him
 - 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
 - 🎵 Música é a chave para inspiração (Eletrônica, J-Pop, Dubstep, entre outros estilos)
-- 💥 Adoro animes como Pokémon e Dragon Ball Z Kai
+- 💥 Gosto de animes como Pokémon e Dragon Ball Z Kai
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <a href="https://github.com/RafaelBalbino">
   <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
