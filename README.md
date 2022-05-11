@@ -3,10 +3,11 @@
 <div align="center"><h2> Me chamo Rafael Ballabinute Balbino </h2></div>
 
 <div>
- <img align="right" alt="Rafael-Croagunk" height="175" style="border-radius:40px;" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
-</div> <br><br>
+ <img align="right" alt="Rafael-Croagunk" height="200" style="border-radius:40px;" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
+</div> <br>
 
 - 👦 Pronomes: Ele / Dele | He / Him
+- 👨‍🎓 Formado como Técnico de Informática na ETEC Jorge Street (2019)
 - 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
 - 🎵 Música é a chave para inspiração (Eletrônica, J-Pop, Dubstep, entre outros estilos)
