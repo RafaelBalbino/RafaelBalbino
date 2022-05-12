@@ -14,8 +14,8 @@
 - 💥 Gosto de animes como Pokémon e Dragon Ball Z Kai
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <a href="https://github.com/RafaelBalbino">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=RafaelBalbino&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img width="51.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Linguagens e programas que eu uso:
