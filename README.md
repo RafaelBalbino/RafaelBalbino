@@ -19,7 +19,8 @@
   <img width="51.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?PAT_1&username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Linguagens e programas que eu uso:
+### Sistema operacional, linguagens e programas que eu uso:
+<img align="center" alt="Rafael-Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="center" alt="Rafael-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  <img align="center" alt="Rafael-Spring" height="30" width="85" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img align="center" alt="Rafael-MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  <img align="center" alt="Rafael-Eclipse" height="30" width="100" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">  <img align="center" alt="Rafael-Heroku" height="30" width="100" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">  <img align="center" alt="Rafael-Github" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
