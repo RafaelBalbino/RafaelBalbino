@@ -3,7 +3,7 @@
 <div align="center"><h2> Me chamo Rafael Ballabinute Balbino | Tenho 20 anos </h2></div>
 
 <div align="center">
- <img align="right" alt="Rafael-Croagunk" height="180" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
+ <img align="right" alt="Rafael-Croagunk" height="200" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
