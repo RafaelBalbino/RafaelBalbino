@@ -20,7 +20,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?PAT_1&username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Sistema operacional, linguagens e programas que eu uso:
+### SO - SITES - LINGUAGENS - PROGRAMAS:
 <img align="center" alt="Rafael-Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="center" alt="Rafael-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  <img align="center" alt="Rafael-Spring" height="30" width="85" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img align="center" alt="Rafael-MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  <img align="center" alt="Rafael-Eclipse" height="30" width="100" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">  <img align="center" alt="Rafael-Heroku" height="29" width="100" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">  <img align="center" alt="Rafael-Github" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="Rafael-HTML5" height="29" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,7 +30,7 @@
  <img align="center" alt="Rafael-Bootstrap" height="29" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Formas de contato:
+### FORMAS DE CONTATO:
 <a href = "mailto:rafaelballabi@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "mailto:rafaelbalbal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/rafael-ballabinute-balbino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
