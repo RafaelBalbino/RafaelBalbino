@@ -30,6 +30,14 @@
  <img align="center" alt="Rafael-Bootstrap" height="29" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+ <h3> REPOSITÓRIOS PRINCIPAIS: </h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelBalbino&show_icons=true&theme=slateorange&repo=ProjetoIntegrador)](https://github.com/RafaelBalbino/ProjetoIntegrador)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelBalbino&show_icons=true&theme=slateorange&repo=BlogPessoal)](https://github.com/RafaelBalbino/BlogPessoal)
+</div>
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### FORMAS DE CONTATO:
 <a href = "mailto:rafaelballabi@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "mailto:rafaelbalbal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
