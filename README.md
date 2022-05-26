@@ -17,7 +17,7 @@
   <a href="https://github.com/RafaelBalbino">
   <img width="48.5%" 
    src="https://github-readme-stats.vercel.app/api?PAT_1&username=RafaelBalbino&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?PAT_1&username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
+  <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?PAT_1&username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SO - SITES - LINGUAGENS - PROGRAMAS:
@@ -37,6 +37,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelBalbino&show_icons=true&theme=slateorange&repo=BlogPessoal)](https://github.com/RafaelBalbino/BlogPessoal)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelBalbino&show_icons=true&theme=slateorange&repo=RafaelBalbinoSite)](https://github.com/RafaelBalbino/RafaelBalbinoSite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelBalbino&show_icons=true&theme=slateorange&repo=RafaelBalbinoBootstrap)](https://github.com/RafaelBalbino/RafaelBalbinoBootstrap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelBalbino&show_icons=true&theme=slateorange&repo=ProjetoIntegradorFront)](https://github.com/RafaelBalbino/ProjetoIntegradorFront)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafaelBalbino&show_icons=true&theme=slateorange&repo=ProjetoIntegrador)](https://github.com/RafaelBalbino/ProjetoIntegrador)
 </div>
  
