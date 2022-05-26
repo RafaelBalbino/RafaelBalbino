@@ -14,11 +14,13 @@
 - 🎵 Música me inspira (Eletrônica, J-Pop, Dubstep, Pop-Rock, entre outros)
 - 💥 Gosto de animes como Pokémon e Dragon Ball Z Kai
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
   <a href="https://github.com/RafaelBalbino">
   <img width="48.5%" 
    src="https://github-readme-stats.vercel.app/api?PAT_1&username=RafaelBalbino&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?PAT_1&username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
-  
+</div>
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SO - SITES - LINGUAGENS - PROGRAMAS:
 <img align="center" alt="Rafael-Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
