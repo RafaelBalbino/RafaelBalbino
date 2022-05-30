@@ -3,16 +3,16 @@
 <div align="center"><h2> Me chamo Rafael Ballabinute Balbino | Tenho 20 anos </h2></div>
 
 <div align="center">
- <img align="right" alt="Rafael-Croagunk" height="200" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
+ <img align="right" alt="Rafael-Croagunk" height="180" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
 </div>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👦 Pronomes: Ele / Dele | He / Him
 - 👨‍🎓 Formado como Técnico de Informática na ETEC Jorge Street, SP (2019)
 - 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
 - 🎵 Música me inspira (Eletrônica, J-Pop, Dubstep, Pop-Rock, entre outros)
 - 💥 Gosto de animes como Pokémon e Dragon Ball Z Kai
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <a href="https://github.com/RafaelBalbino">
