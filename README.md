@@ -12,6 +12,7 @@
 - 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
 - 🎵 Música me inspira (Eletrônica, J-Pop, Dubstep, Pop-Rock, entre outros)
 - 💥 Gosto de animes como Pokémon e Dragon Ball Z Kai
+<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
