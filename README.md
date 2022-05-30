@@ -13,8 +13,7 @@
 - 🎵 Música me inspira (Eletrônica, J-Pop, Dubstep, Pop-Rock, entre outros)
 - 💥 Gosto de animes como Pokémon e Dragon Ball Z Kai
 <br>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 <div align="center">
   <a href="https://github.com/RafaelBalbino">
   <img width="48.5%" 
