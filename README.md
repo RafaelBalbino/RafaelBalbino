@@ -3,7 +3,7 @@
 <div align="center"><h2> Me chamo Rafael Ballabinute Balbino | Tenho 20 anos </h2></div>
 
 <div align="center">
- <img align="right" alt="Rafael-Croagunk" height="180" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
+ <img align="right" alt="Rafael-Croagunk" height="190" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
 </div>
 
 - 👦 Pronomes: Ele / Dele | He / Him
@@ -50,4 +50,4 @@
 <a href = "Rafael Balbino#6728"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> ***- Rafael Balbino#6728***
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### MEU PERSONAL PITCH (APRESENTAÇÃO PESSOAL) - https://www.youtube.com/watch?v=eZxtwRCjGcE
+### MEU PERSONAL PITCH (APRESENTAÇÃO PESSOAL) - <a href = "https://www.youtube.com/watch?v=eZxtwRCjGcE" target="_blank">LINK</a>
