@@ -46,7 +46,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### FORMAS DE CONTATO:
 <a href = "mailto:rafaelballabi@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href = "mailto:rafaelbalbal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/rafael-ballabinute-balbino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "Rafael Balbino#6728"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> ***- Rafael Balbino#6728***
  
