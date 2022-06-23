@@ -7,11 +7,12 @@
 </div>
 
 - 👦 Pronomes: Ele / Dele | He / Him
-- 👨‍🎓 Formado como Técnico de Informática na ETEC Jorge Street, SP (2019)
-- 👨‍💻 Na jornada para me tornar um Desenvolvedor JAVA Web Full Stack Jr.
-- 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
+- 👨‍🎓 Formado como Técnico de Informática pela ETEC Jorge Street, SP (2019)
+- 👨‍💻 Formado como Desenvolvedor JAVA Web Full Stack Jr. pela Generation Brasil (2022)
+- 💻 Meu foco é em Back-end mas estou aberto para Full Stack
+- 💜 Trabalhei no Projeto Integrador de nome CAIV
 - 🎵 Música me inspira (Eletrônica, J-Pop, Dubstep, Pop-Rock, entre outros)
-- 💥 Gosto de animes como Pokémon e Dragon Ball Z Kai
+- 💥 Gosto de animes como Pokémon, Naruto e Dragon Ball Z Kai
 <br>
 <hr>
 <div align="center">
@@ -51,3 +52,12 @@
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### MEU PERSONAL PITCH (APRESENTAÇÃO PESSOAL) - <a href = "https://www.youtube.com/watch?v=eZxtwRCjGcE" target="_blank">LINK</a>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+ <img alt="Logo-CAIV" height="150" src="https://i.imgur.com/pfdAvUv.png">
+</div>
+
+<div align="center">
+ <h2><b>LINK DO PROJETO INTEGRADOR - CAIV:</b> https://caiv.netlify.app/#/home</h2>
+</div>
