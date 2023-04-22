@@ -9,17 +9,18 @@
 - 👦 Pronomes: Ele / Dele | He / Him
 - 👨‍🎓 Formado como Técnico de Informática pela ETEC Jorge Street, SP (2019)
 - 👨‍💻 Formado como Desenvolvedor JAVA Web Full Stack Jr. pela Generation Brasil (2022)
-- 💻 Meu foco é em Back-end mas estou aberto para Full Stack
+- 💻 Foco em Back-end mas aberto para Full Stack | Estudando na Fatec Antônio Russo
 - 💜 Trabalhei no Projeto Integrador de nome CAIV
 - 🎵 Música me inspira (Eletrônica, J-Pop, Dubstep, Pop-Rock, entre outros)
 - 💥 Gosto de animes como Pokémon, Naruto e Dragon Ball Z Kai
+
 <br>
 <hr>
 <div align="center">
   <a href="https://github.com/RafaelBalbino">
-  <img width="48.5%" 
+  <img width="47.5%" 
    src="https://github-readme-stats.vercel.app/api?PAT_1&username=RafaelBalbino&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?PAT_1&username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
+  <img width="40.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?PAT_1&username=RafaelBalbino&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -30,7 +31,7 @@
 <img align="center" alt="Rafael-HTML5" height="29" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img align="center" alt="Rafael-CSS" height="29" width="70" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
  <img align="center" alt="Rafael-Javascript" height="29" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img align="center" alt="Rafael-Typescript" height="29" width="110" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Rafael-Angular" height="29" width="95" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img align="center" alt="Rafael-Bootstrap" height="29" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Rafael-Angular" height="29" width="95" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><img align="center" alt="Rafael-Bootstrap" height="29" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img align="center" alt="Rafael-Excel" height="29" width="110" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
@@ -46,7 +47,7 @@
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### FORMAS DE CONTATO:
-<a href = "mailto:rafaelballabi@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:rafael.balbino5@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/rafael-ballabinute-balbino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "Rafael Balbino#6728"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> ***- Rafael Balbino#6728***
  
