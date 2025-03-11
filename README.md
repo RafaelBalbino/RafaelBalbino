@@ -1,6 +1,6 @@
 <div align="center"><h1> 👋 Olá, seja bem-vindo(a) ao meu perfil! 👋 </h1></div>
 
-<div align="center"><h2> Me chamo Rafael Ballabinute Balbino | Tenho 22 anos </h2></div>
+<div align="center"><h2> Me chamo Rafael Ballabinute Balbino | Tenho 23 anos </h2></div>
 
 <div align="center">
  <img align="right" alt="Rafael-Croagunk" height="190" src="https://pa1.narvii.com/6427/b87df2f9562520e2346e6233338377cc7bbd7b27_hq.gif">
@@ -9,8 +9,9 @@
 - 👦 Pronomes: Ele / Dele | He / Him
 - 👨‍🎓 Formado como Técnico de Informática pela ETEC Jorge Street, SP (2019)
 - 👨‍💻 Formado como Desenvolvedor JAVA Web Full Stack Jr. pela Generation Brasil (2022)
-- 💻 Foco em Back-end mas aberto para Full Stack | Estudando na Fatec Antônio Russo
+- 💻 Foco em Back-end mas aberto para Full Stack | Estudando na faculdade Fatec Antônio Russo
 - 💜 Trabalhei no Projeto Integrador de nome CAIV
+- 🖥️ Atualmente trabalhando como Desenvolvedor de Mapas na Sintel
 - 🎵 Música me inspira (Eletrônica, J-Pop, Dubstep, Pop-Rock, entre outros)
 - 💥 Gosto de animes como Pokémon, Naruto e Dragon Ball Z Kai
 
