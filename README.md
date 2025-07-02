@@ -11,7 +11,6 @@
 - 👨‍💻 Formado como Desenvolvedor JAVA Web Full Stack Jr. pela Generation Brasil (2022)
 - 💻 Foco em Back-end mas aberto para Full Stack | Estudando na faculdade Fatec Antônio Russo
 - 💜 Trabalhei no Projeto Integrador de nome CAIV
-- 🖥️ Atualmente trabalhando como Desenvolvedor de Mapas na Sintel
 - 🎵 Música me inspira (Eletrônica, J-Pop, Dubstep, Pop-Rock, entre outros)
 - 💥 Gosto de animes como Pokémon, Naruto e Dragon Ball Z Kai
 
